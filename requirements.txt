@@ -1,0 +1,9 @@
+SpeechRecognition
+pyaudio
+google-generativeai
+gTTs
+pipwin
+streamlit
+
+
+    
